@@ -19,7 +19,6 @@ Here are some screenshots of the app in action:
 ### Main Game Screen:
 ![Game Interface 1](Screenshot_2024-11-17_231911.png)
 
-### Game In-Play:
 ![Game Interface 2](Screenshot_2024-11-17_231921.png)
 
 ![Game Interface 3](Screenshot_2024-11-17_231930.png)
