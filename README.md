@@ -15,17 +15,17 @@ Puzzle15Game is an engaging iOS puzzle application developed using Swift and Swi
 
 ## App Interface
 Here are some screenshots of the app in action:
-
 ### Main Game Screen:
-![Game Interface 1](Screenshot_2024-11-17_231911.png)
+![Game Interface 1](images/Screenshot_2024-11-17_231911.png)
 
-![Game Interface 2](Screenshot_2024-11-17_231921.png)
+![Game Interface 2](images/Screenshot_2024-11-17_231921.png)
 
-![Game Interface 3](Screenshot_2024-11-17_231930.png)
+![Game Interface 3](images/Screenshot_2024-11-17_231930.png)
 
-![Game Interface 4](Screenshot_2024-11-17_231939.png)
+![Game Interface 4](images/Screenshot_2024-11-17_231939.png)
 
-![Game Interface 5](Screenshot_2024-11-17_231948.png)
+![Game Interface 5](images/Screenshot_2024-11-17_231948.png)
+
 
 ## How to Run
 1. Clone the repository:
