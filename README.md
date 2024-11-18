@@ -20,7 +20,7 @@ Here are some screenshots of the app in action:
 ![Game Interface 1](https://raw.githubusercontent.com/Fiona-jet/Puzzle15Game/main/images/Screenshot_2024-11-17_231911.png
 )
 
-![Game Interface 2](images/Screenshot_2024-11-17_231921.png)
+![Game Interface 2](https://github.com/Fiona-jet/Puzzle15Game/blob/main/images/Screenshot%202024-11-17%20231911.png)
 
 ![Game Interface 3](images/Screenshot_2024-11-17_231930.png)
 
