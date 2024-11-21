@@ -1,3 +1,11 @@
+
+##-----Student Info-------##
+
+Name: Moshammad Farzana Rahman
+Roll: 2007089
+Section:B1
+
+
 # Puzzle15Game
 
 Puzzle15Game is an engaging iOS puzzle application developed using Swift and SwiftUI. The game replicates the classic 15-puzzle, offering a simple yet fun way to challenge your brain with a sleek and responsive interface.
